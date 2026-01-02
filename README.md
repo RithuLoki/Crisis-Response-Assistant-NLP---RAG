@@ -51,7 +51,7 @@ This project explores how NLP and RAG can be used to build a **safe and explaina
 
 ## How to Run the Project
 1. Clone or download this repository
-2. Open the notebook in Jupyter Notebook or JupyterLab
+2. Open the notebook in Google Colab or Jupyter Notebook
 3. Run all cells sequentially
 4. Use the interactive interface at the end of the notebook to test sample queries
 
