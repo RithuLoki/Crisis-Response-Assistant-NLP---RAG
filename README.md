@@ -45,14 +45,14 @@ This project explores how NLP and RAG can be used to build a **safe and explaina
 - Sentence Transformers
 - Scikit-learn
 - NumPy
-- Jupyter Notebook
+- Jupyter Notebook / Google Colab
 
 ---
 
 ## How to Run the Project
 1. Clone or download this repository
-2. Open the notebook in Google Colab or Jupyter Notebook
-3. Run all cells sequentially
+2. Open the notebook in **Google Colab** or **Jupyter Notebook**
+3. Run all cells sequentially from top to bottom
 4. Use the interactive interface at the end of the notebook to test sample queries
 
 ---
