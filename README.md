@@ -55,7 +55,7 @@ This project explores how NLP and RAG can be used to build a **safe and explaina
 3. Run all cells sequentially from top to bottom
 4. Use the interactive interface at the end of the notebook to test sample queries
 
-## Note on Interactive Interface
+### Note on Interactive Interface
 
 The interactive text-based interface included in this notebook is intended for **local execution or Google Colab** only.  
 It is not executed in the GitHub preview to avoid rendering issues caused by input-based loops.
@@ -70,13 +70,6 @@ This project is intended **only for educational and research purposes**.
 - It is **not a replacement** for professional help
 
 If a user is experiencing a serious crisis or feels unsafe, they should immediately contact qualified professionals or emergency services.
-
----
-
-## Limitations
-- Input categorization is rule-based and may not capture all linguistic variations
-- Safety detection relies on keyword matching and may require further expansion
-- Knowledge base is limited to predefined educational content
 
 ---
 
