@@ -1,6 +1,6 @@
 # Crisis Response Assistant using NLP & RAG (Non-Clinical)
 
-## Project Description
+## Project Overview
 This project presents a **Crisis Response Assistant** built using **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)** techniques.  
 The system is designed strictly as a **non-clinical, non-diagnostic, and non-therapeutic educational tool**.
 
